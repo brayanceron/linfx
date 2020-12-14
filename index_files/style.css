@@ -352,6 +352,13 @@ nav a:hover, nav .active a {
   padding: 3.5em 1.5em 0;
   position: relative;
 }
+#content2 {
+  padding: 3.5em 1.5em 0;
+  position: relative;
+}
+
+
+
 
 #content p, #content a  {color: #000; }
 .content {padding: 15px 0 0 15px; }
