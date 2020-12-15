@@ -42,6 +42,7 @@ p {
 	color:blue;
 	font-color:blue;
 	background-color: black;
+	margin:0 auto;
 }
 
 .container .container {
