@@ -39,7 +39,7 @@ p {
 .color_comentarios {
   color:blue;
 	font-color:blue;
-	
+	background-color: red;
 }
 
 .container .container {
