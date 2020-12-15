@@ -36,6 +36,10 @@ p {
   width: 1400px;
 }
 
+.color_comentarios {
+  color:blue;
+}
+
 .container .container {
   width: 100%;
   padding: 0;
